@@ -12,8 +12,17 @@ body, html {
     text-align: center;
 }
 
+.card .card-image .card-title{
+    color: #000;
+}
+
 .nav-wrapper{
     background-color: #40c4ff;
+}
+
+.img{
+    max-width: 50%;
+    height: auto;
 }
 
 .page-footer{
