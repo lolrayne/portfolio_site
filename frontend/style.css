@@ -30,7 +30,9 @@ body, html {
 }
 
 .tvstatsapp{
-    height: 25%;
+    width: 120px;
+    height: 120px;
+    height: auto;
     
 }
 
